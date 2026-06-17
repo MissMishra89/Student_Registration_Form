@@ -1,0 +1,13 @@
+{
+  "students": [
+   
+  ],
+  "teacher": [
+    {
+      "id": "1",
+      "name": "Sameer",
+      "post": "Math Teacher"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
